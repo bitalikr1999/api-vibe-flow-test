@@ -1,0 +1,2 @@
+export const SONGS_REPOSITORY = Symbol('SONGS_REPOSITORY');
+export const USERS_REPOSITORY = Symbol('USERS_REPOSITORY');
